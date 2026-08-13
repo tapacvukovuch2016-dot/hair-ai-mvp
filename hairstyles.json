@@ -1,0 +1,559 @@
+[
+  {
+    "id": "buzz_cut",
+    "name": "Buzz Cut",
+    "top_length": "very_short",
+    "sides_length": "very_short",
+    "fringe": false,
+    "volume": "low",
+    "styling": "minimal",
+    "maintenance": "low",
+    "density": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "crew_cut",
+    "name": "Crew Cut",
+    "top_length": "short",
+    "sides_length": "short",
+    "fringe": false,
+    "volume": "low",
+    "styling": "minimal",
+    "maintenance": "low",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "french_crop",
+    "name": "French Crop",
+    "top_length": "short",
+    "sides_length": "short",
+    "fringe": true,
+    "volume": "low",
+    "styling": "low",
+    "maintenance": "low",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "textured_crop",
+    "name": "Textured Crop",
+    "top_length": "short",
+    "sides_length": "short",
+    "fringe": true,
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "low",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "caesar",
+    "name": "Caesar",
+    "top_length": "short",
+    "sides_length": "short",
+    "fringe": true,
+    "volume": "low",
+    "styling": "minimal",
+    "maintenance": "low",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "ivy_league",
+    "name": "Ivy League",
+    "top_length": "medium",
+    "sides_length": "short",
+    "fringe": "side",
+    "volume": "medium",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "side_part",
+    "name": "Side Part",
+    "top_length": "medium",
+    "sides_length": "short",
+    "fringe": "side",
+    "volume": "medium",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "slick_back",
+    "name": "Slick Back",
+    "top_length": "long",
+    "sides_length": "short_medium",
+    "fringe": false,
+    "volume": "high",
+    "styling": "high",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "quiff",
+    "name": "Quiff",
+    "top_length": "medium_long",
+    "sides_length": "short",
+    "fringe": false,
+    "volume": "high",
+    "styling": "high",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "pompadour",
+    "name": "Pompadour",
+    "top_length": "long",
+    "sides_length": "short",
+    "fringe": false,
+    "volume": "very_high",
+    "styling": "high",
+    "maintenance": "high",
+    "density": [
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "high_fade",
+    "name": "High Fade",
+    "top_length": "short_medium",
+    "sides_length": "very_short",
+    "fringe": false,
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "mid_fade",
+    "name": "Mid Fade",
+    "top_length": "medium",
+    "sides_length": "very_short",
+    "fringe": false,
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "low_fade",
+    "name": "Low Fade",
+    "top_length": "medium",
+    "sides_length": "short",
+    "fringe": false,
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "taper",
+    "name": "Classic Taper",
+    "top_length": "medium",
+    "sides_length": "short",
+    "fringe": false,
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "curly_crop",
+    "name": "Curly Crop",
+    "top_length": "short_medium",
+    "sides_length": "short",
+    "fringe": true,
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "low",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "curly",
+      "wavy"
+    ]
+  },
+  {
+    "id": "curly_top_fade",
+    "name": "Curly Top Fade",
+    "top_length": "medium",
+    "sides_length": "very_short",
+    "fringe": false,
+    "volume": "high",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "curly"
+    ]
+  },
+  {
+    "id": "textured_quiff",
+    "name": "Textured Quiff",
+    "top_length": "medium_long",
+    "sides_length": "short",
+    "fringe": false,
+    "volume": "high",
+    "styling": "medium_high",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "messy_medium",
+    "name": "Messy Medium",
+    "top_length": "medium_long",
+    "sides_length": "medium",
+    "fringe": "optional",
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "bro_flow",
+    "name": "Bro Flow",
+    "top_length": "long",
+    "sides_length": "long",
+    "fringe": "optional",
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "shoulder_layers",
+    "name": "Shoulder-Length Layers",
+    "top_length": "long",
+    "sides_length": "long",
+    "fringe": "optional",
+    "volume": "medium",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "long_center_part",
+    "name": "Long Center Part",
+    "top_length": "long",
+    "sides_length": "long",
+    "fringe": "optional",
+    "volume": "medium",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "wolf_cut",
+    "name": "Wolf Cut",
+    "top_length": "long",
+    "sides_length": "medium",
+    "fringe": "optional",
+    "volume": "high",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "shag",
+    "name": "Modern Shag",
+    "top_length": "medium_long",
+    "sides_length": "medium",
+    "fringe": true,
+    "volume": "high",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "wavy",
+      "curly",
+      "straight"
+    ]
+  },
+  {
+    "id": "modern_mullet",
+    "name": "Modern Mullet",
+    "top_length": "medium",
+    "sides_length": "short",
+    "fringe": "optional",
+    "volume": "medium",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "undercut",
+    "name": "Undercut",
+    "top_length": "long",
+    "sides_length": "very_short",
+    "fringe": "optional",
+    "volume": "high",
+    "styling": "medium_high",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "curtain_cut",
+    "name": "Curtain Cut",
+    "top_length": "medium_long",
+    "sides_length": "medium",
+    "fringe": true,
+    "volume": "medium",
+    "styling": "medium",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "modern_bowl",
+    "name": "Modern Bowl Cut",
+    "top_length": "medium",
+    "sides_length": "short",
+    "fringe": true,
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy"
+    ]
+  },
+  {
+    "id": "caesar_fade",
+    "name": "Caesar Fade",
+    "top_length": "short",
+    "sides_length": "very_short",
+    "fringe": true,
+    "volume": "low",
+    "styling": "minimal",
+    "maintenance": "low",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "short_back_sides",
+    "name": "Short Back and Sides",
+    "top_length": "medium",
+    "sides_length": "short",
+    "fringe": "optional",
+    "volume": "medium",
+    "styling": "low",
+    "maintenance": "low",
+    "density": [
+      "low",
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "straight",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "id": "natural_curls",
+    "name": "Natural Curls",
+    "top_length": "medium",
+    "sides_length": "medium",
+    "fringe": "optional",
+    "volume": "high",
+    "styling": "low",
+    "maintenance": "medium",
+    "density": [
+      "medium",
+      "high"
+    ],
+    "texture": [
+      "curly"
+    ]
+  }
+]

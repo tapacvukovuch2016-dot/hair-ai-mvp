@@ -1,0 +1,64 @@
+{
+  "session_id": "example-session",
+  "photos": [
+    {
+      "photo_id": "front_01",
+      "angle": "front",
+      "quality": {
+        "lighting": 0.92,
+        "sharpness": 0.88,
+        "occlusion": 0.05
+      },
+      "visibility": {
+        "face": true,
+        "hair": true,
+        "hairline": true,
+        "ears": true,
+        "neck": true,
+        "crown": false,
+        "back_of_head": false
+      }
+    }
+  ],
+  "profile": {
+    "face": {
+      "shape": {
+        "value": "oval_rectangular",
+        "confidence": 0.91
+      },
+      "proportions": {
+        "value": "balanced",
+        "confidence": 0.86
+      }
+    },
+    "hair": {
+      "texture": {
+        "value": "straight",
+        "confidence": 0.94
+      },
+      "density": {
+        "value": "high",
+        "confidence": 0.82
+      },
+      "current_length": {
+        "value": "medium",
+        "confidence": 0.9
+      },
+      "hairline": {
+        "value": "regular",
+        "confidence": 0.78
+      }
+    },
+    "head_shape": {
+      "value": null,
+      "confidence": 0.28,
+      "reason": "Недостаточно боковых/задних ракурсов"
+    }
+  },
+  "missing_information": [
+    {
+      "feature": "head_shape",
+      "required_view": "profile_or_back"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "test_1": {
+    "face": {
+      "shape": "oval_rectangular",
+      "confidence": 0.92
+    },
+    "hair": {
+      "texture": "straight",
+      "density": "high",
+      "confidence": 0.9
+    },
+    "head_shape": {
+      "value": null,
+      "confidence": 0.31
+    },
+    "desired_length": "short",
+    "max_styling": "low",
+    "avoid": [
+      "bangs",
+      "long_hair"
+    ],
+    "history": {
+      "liked": [],
+      "disliked": []
+    }
+  },
+  "test_2": {
+    "face": {
+      "shape": "round",
+      "confidence": 0.88
+    },
+    "hair": {
+      "texture": "curly",
+      "density": "high",
+      "confidence": 0.93
+    },
+    "head_shape": {
+      "value": "average",
+      "confidence": 0.82
+    },
+    "desired_length": "medium",
+    "max_styling": "low",
+    "avoid": [],
+    "history": {
+      "liked": [],
+      "disliked": [
+        "buzz_cut"
+      ]
+    }
+  }
+}
